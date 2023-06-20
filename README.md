@@ -1,2 +1,6 @@
-# basic-chess-game
-A basic chess game written for Roblox
+# Basic Chess Game
+#### A basic chess game written for Roblox
+
+### About
+
+Insert Desc here
