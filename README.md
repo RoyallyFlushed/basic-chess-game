@@ -12,4 +12,6 @@ As for the contents of the project, there are two scripts which are as follows:
 - Client Controller, which handles all of the client-side code, from the functionality of the UI, to displaying the aesthetics of the game state to the player, and communicating with the server to interact with the game and make a move.
 - Chess Manager, which is the server-side implementation of the chess game. Specifically, the entirety of the chess game logic, as well as basic networking to establish a game session with 2 players and move requests.
 
+*\* One important thing to note is that I never ended up finishing this project as I was very quickly hired by BloxByte Games to lead their flagship title.*
+
 One day, I will remake chess with the knowledge and skills that I have attained since that project and maybe I shall do a comparison between them to see how far I've come.
